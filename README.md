@@ -3,6 +3,7 @@
 # My Portfolio
 
 Welcome to my portfolio! Here you can find my projects and details about my experience.
+
 ![Power BI](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-informational?style=flat&logo=powerbi&color=F2C811)
 ![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sqlite&color=003B57)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
@@ -10,10 +11,10 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ## Download My CV
 
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
-[Click here to download my CV](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
+[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/user-attachments/files/18209410/CV.JDarcet.janv.pdf)
+[Click here to download my CV](https://github.com/user-attachments/files/18209410/CV.JDarcet.janv.pdf)
 
-[CV Jeanne_Darcet.pdf](https://github.com/user-attachments/files/18207419/CV.Coline.Ritz.pdf)
+[CV Jeanne_Darcet.pdf](https://github.com/user-attachments/files/18209410/CV.JDarcet.janv.pdf)
 
 <img width="1386" alt="Capture d’écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
 
@@ -110,7 +111,7 @@ Code to use :
 ## Links and Images
 
 ### Link
-[GitHub](https://github.com)
+[GitHub](https://github.com/JeanneDarcet)
 
 ### Image
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
