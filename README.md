@@ -17,24 +17,15 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 <h2>👨‍💻 Data Analysis Development Projects:</h2>
 
 - <b>Final study cas with databird</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Etude de la rentabilité sportive de l'équipe Pro A Basketball du Mans Sarthe](https://github.com/JeanneDarcet/MSB-Rentabilite-Lineups)
 
 
 ## Mes projets
-### Projet 1 : Analyse des ventes d'une entreprise
-- **Description** : Analyse des ventes mensuelles pour prévoir les tendances futures.
-- **Technologies** : Python, pandas, Matplotlib, scikit-learn, SQL.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
+### Projet 1 : Analyse des performances sportives des lineups de l'équipe du Mans Sarthe Basketball
+- **Description** : Etude de la rentabilité sportive de l'équipe Pro A Basketball du Mans Sarthe, pour la saison 2024-2025.
+- **Technologies** : Python, pandas, seaborn, SQL, PowerBi.
+- **Lien vers le projet** : [lien vers le projet GitHub](https://github.com/JeanneDarcet/MSB-Rentabilite-Lineups)
 
-### Projet 2 : Analyse des sentiments sur Twitter
-- **Description** : Utilisation du scraping pour analyser les sentiments des utilisateurs sur Twitter autour d'un sujet donné.
-- **Technologies** : BeautifulSoup, pandas, scikit-learn, WordCloud.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
-
-### Projet 3 : Prévision des stocks avec des séries temporelles
-- **Description** : Application de modèles de séries temporelles pour prévoir les niveaux de stock d'un produit.
-- **Technologies** : Python, statsmodels, Matplotlib.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
   
 <h2> 🤳 Connect with me:</h2>
 
