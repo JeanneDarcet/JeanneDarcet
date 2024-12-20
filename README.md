@@ -12,11 +12,6 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 ## Download My CV
 
 [![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/user-attachments/files/18209410/CV.JDarcet.janv.pdf)
-[Click here to download my CV](https://github.com/user-attachments/files/18209410/CV.JDarcet.janv.pdf)
-
-[CV Jeanne_Darcet.pdf](https://github.com/user-attachments/files/18209410/CV.JDarcet.janv.pdf)
-
-<img width="1386" alt="Capture d’écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
 
 
 <h2>👨‍💻 Data Analysis Development Projects:</h2>
@@ -24,9 +19,6 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 - <b>Final study cas with databird</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 ## Mes projets
 ### Projet 1 : Analyse des ventes d'une entreprise
@@ -46,15 +38,9 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JeanneDarcet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/jeanne-darcet-0a9b2784/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
